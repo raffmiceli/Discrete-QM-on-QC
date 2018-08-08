@@ -1,0 +1,50 @@
+Date: 07-27-2018 12:11
+Varional form: SIMPLE
+Qubits used: 6
+Quantum Depth: 1
+Number of trials: 2
+Exact Energy: 0.5
+Final Energy: 9.8564453125
+Percent Error: 1871.2890625%
+Time Elapsed: 0:00:06.058161
+ 
+Date: 07-27-2018 12:14
+Varional form: SIMPLE
+Qubits used: 6
+Quantum Depth: 2
+Number of trials: 100
+Exact Energy: 0.5
+Final Energy: 5.3076171875
+Percent Error: 961.5234375%
+Time Elapsed: 0:00:29.576996
+ 
+Date: 07-27-2018 12:16
+Varional form: SIMPLE
+Qubits used: 6
+Quantum Depth: 3
+Number of trials: 200
+Exact Energy: 0.5
+Final Energy: 1.4443359375
+Percent Error: 188.8671875%
+Time Elapsed: 0:01:08.265005
+ 
+Date: 07-27-2018 12:23
+Varional form: SIMPLE
+Qubits used: 6
+Quantum Depth: 3
+Number of trials: 500
+Exact Energy: 0.5
+Final Energy: 0.515625
+Percent Error: 3.125%
+Time Elapsed: 0:02:34.476486
+ 
+Date: 07-27-2018 12:26
+Varional form: SIMPLE
+Qubits used: 6
+Quantum Depth: 4
+Number of trials: 500
+Exact Energy: 0.5
+Final Energy: 0.5087890625
+Percent Error: 1.7578125%
+Time Elapsed: 0:03:09.705874
+ 
