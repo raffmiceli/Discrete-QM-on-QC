@@ -8,3 +8,5 @@ Make Paulis.nb - Takes output of previous file and returns a list of Pauli tenso
 vqe_aqua.py - Runs the VQE algorithm on the Pauli list, outputting a log file, a circuit diagram and a convergence plot.
 
 simple.py - Example variational form. Variational form files need to be placed in a directory within the QISKit installation. For example, when installed using pip in an Anaconda environment, the path looks like this: *user_name_goes_here*/anaconda3/envs/QISKitenv/lib/python3.6/site-packages/qiskit_aqua/utils
+
+I've also included an example log file, circuit diagram and convergence plot.
